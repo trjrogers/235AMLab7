@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tide Prediction</string>
+    <string name="item_prediction_date">Date</string>
+    <string name="item_prediction_time">Details</string>
+</resources>
